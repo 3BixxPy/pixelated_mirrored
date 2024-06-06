@@ -1,2 +1,17 @@
-# pixelated_mirrored
-Splits the image into pixels and mirrors the pixel horizontally then vertically
+# Pixelated Mirrored
+ Splits the image into set squares and then takes each square \
+ and flips that image horizontally than mirrors that vertically \
+ so now the pixel is mirrored in 4 was basically
+
+*original pixel from iteration:* \
+![](https://i.imgur.com/A4W6WeX.jpeg)
+
+*mirrored pixel that is now 2x bigger:* \
+![](https://i.imgur.com/ro1Nsgl.jpeg)
+
+*and finally after merging the pixels:* \
+![](https://i.imgur.com/gZNSkhH.jpeg)
+
+# Requirements
+- `pillow`
+- `tkinter` (basically optional)
