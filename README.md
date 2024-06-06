@@ -11,6 +11,7 @@
 
 *and finally after merging the pixels:* \
 ![](https://i.imgur.com/gZNSkhH.jpeg)
+<details><summary>Original image</summary><img src="https://i.imgur.com/Ijwj0Un.jpeg"></details>
 
 # Requirements
 - `pillow`
