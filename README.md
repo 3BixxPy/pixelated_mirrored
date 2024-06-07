@@ -1,6 +1,6 @@
 # Pixelated Mirrored
- Splits the image into set squares and then takes each square \
- and flips that image horizontally than mirrors that vertically \
+ Splits the image into set squares and then takes each square 
+ and flips that image horizontally than mirrors that vertically 
  so now the pixel is mirrored in 4 was basically
 
 *original pixel from iteration:* \
