@@ -1,7 +1,7 @@
 # Pixelated Mirrored
  Splits the image into set squares by width and then takes each square 
  and flips that image horizontally than mirrors that vertically 
- so now the pixel is mirrored in 4 was basically
+ so now the pixel is mirrored in 4 ways basically
 
 *original pixel from iteration:* \
 ![](https://i.imgur.com/A4W6WeX.jpeg)
